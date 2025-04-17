@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 專案說明
+## 專案說明
 
 - **來源網頁**：  
   https://csie.asia.edu.tw/zh_tw/TeacherIntroduction/Full_time_faculty  
@@ -37,7 +37,7 @@
 
 ---
 
-5.##最終程式碼
+5. **最終程式碼**
 ```
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
