@@ -1,4 +1,4 @@
-# 進階程式設計--爬蟲
+# 進階程式設計--Python爬蟲
 
 **從亞洲大學資工系全職教師頁面抓取「姓名」與「研究領域」並存成 CSV / SQLite**
 
@@ -11,7 +11,15 @@
 - **抓取欄位**：  
   - 姓名 (`<span class="member-data-value-name">`)  
   - 研究領域 (`<span class="member-data-value-7">`)
-
+- **功能**:
+- 自動爬取教師資料
+- 儲存為 UTF-8 CSV 檔案
+- 可擴充存入 SQLite 資料庫
+- **加分項目**:
+- [x] Github repository ✅
+- [x] Selenium ✅
+- [ ] Scrapy
+- [x] SQLite ✅
 ---
 
 ## 學習歷程
