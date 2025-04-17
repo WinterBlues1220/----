@@ -21,10 +21,10 @@
 - 可擴充存入 SQLite 資料庫
 
 **加分項目**:
-- [x] Github repository ✅
-- [x] Selenium ✅
+- [x] Github repository 
+- [x] Selenium 
 - [ ] Scrapy
-- [x] SQLite ✅
+- [x] SQLite 
 ---
 
 ## 學習歷程
