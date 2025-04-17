@@ -6,16 +6,16 @@
 
 ## 專案說明
 
- **來源網頁**：  
+**來源網頁**：  
   https://csie.asia.edu.tw/zh_tw/TeacherIntroduction/Full_time_faculty  
- **抓取欄位**：  
+**抓取欄位**：  
   - 姓名 (`<span class="member-data-value-name">`)  
   - 研究領域 (`<span class="member-data-value-7">`)
- **功能**:
+**功能**:
 - 自動爬取教師資料
 - 儲存為 UTF-8 CSV 檔案
 - 可擴充存入 SQLite 資料庫
- **加分項目**:
+**加分項目**:
 - [x] Github repository ✅
 - [x] Selenium ✅
 - [ ] Scrapy
